@@ -1,22 +1,14 @@
-# Phase 1 Project
+# Phase 1 Project - Movie Analysis
 
-You've made it all the way through the first phase of this course - take a minute to celebrate your awesomeness!
+Lauren Petrillo
 
-![awesome](https://raw.githubusercontent.com/learn-co-curriculum/dsc-phase-1-project/master/awesome.gif)
+## Business Problem
 
-Now you will put your new skills to use with a large end-of-Phase project! This project should take 20 to 30 hours to complete.
+I was tasked to create a new movie studio for Microsoft by giving three business recommendations to the Stakeholders. I do this by analyzing data in the movie industry to generate actionable insights in order to become a successful movie studio. I want to explore the highest grossing genres, directors, and studios.
 
-## Project Overview
+## The Data
 
-For this project, you will use exploratory data analysis to generate insights for a business stakeholder.
-
-### Business Problem
-
-Microsoft sees all the big companies creating original video content and they want to get in on the fun. They have decided to create a new movie studio, but they don’t know anything about creating movies. You are charged with exploring what types of films are currently doing the best at the box office. You must then translate those findings into actionable insights that the head of Microsoft's new movie studio can use to help decide what type of films to create.
-
-### The Data
-
-In the folder `zippedData` are movie datasets from:
+Here are the resources I used to perform my data analysis:
 
 * [Box Office Mojo](https://www.boxofficemojo.com/)
 * [IMDB](https://www.imdb.com/)
@@ -24,42 +16,53 @@ In the folder `zippedData` are movie datasets from:
 * [TheMovieDB](https://www.themoviedb.org/)
 * [The Numbers](https://www.the-numbers.com/)
 
-It is up to you to decide what data from this to use and how to use it. If you want to make this more challenging, you can scrape websites or make API calls to get additional data. If you are feeling overwhelmed or behind (e.g. struggled with the Phase 1 Code Challenge), we recommend you use only the following data files:
 
-* imdb.title.basics
-* imdb.title.ratings
-* bom.movie_gross
+##  Methods
 
-## Deliverables
+* Findings from Exploratory Data Analysis
+* Descriptive Analysis
+* Choices Made
 
-There are three deliverables for this project:
+## Results
 
-* A **GitHub repository**
-* A **Jupyter Notebook**
-* A **non-technical presentation**
+### Gross Visual 1
 
-Review the "Project Submission & Review" page in the "Milestones Instructions" topic for instructions on creating and submitting your deliverables. Refer to the rubric associated with this assignment for specifications describing high-quality deliverables.
+### Gross Visual 2
 
-### Key Points
+### Gross Visual 3
 
-* **Your analysis should yield three concrete business recommendations.** The ultimate purpose of exploratory analysis is not just to learn about the data, but to help an organization perform better. Explicitly relate your findings to business needs by recommending actions that you think the business (Microsoft) should take.
+## Recommendations
 
-* **Communicating about your work well is extremely important.** Your ability to provide value to an organization - or to land a job there - is directly reliant on your ability to communicate with them about what you have done and why it is valuable. Create a storyline your audience (the head of Microsoft's new movie studio) can follow by walking them through the steps of your process, highlighting the most important points and skipping over the rest.
+* Focus on genres such as Sci-Fi, Adventure, and Animation as they produce the most revenue
+* Focus on the top movie studios BV, WB, and Fox (Who is their target audience? Study behavior/trends of consumers in order to capture their data on television rights, videos-on-demand, and streaming services)
+* Hire popular directors--it can lead to higher revenue for movies
 
-* **Use plenty of visualizations.** Visualizations are invaluable for exploring your data and making your findings accessible to a non-technical audience. Spotlight visuals in your presentation, but only ones that relate directly to your recommendations. Simple visuals are usually best (e.g. bar charts and line graphs), and don't forget to format them well (e.g. labels, titles).
+## Next Steps
 
-## Getting Started
+Some features to explore would be:
+* Movie Budget
+* ROI
+* Time the movie is released
+* Target Audience
 
-Please start by reviewing this assignment, the rubric at the bottom of it, and the "Project Submission & Review" page. If you have any questions, please ask your instructor ASAP.
+Gathering more data would help further support our claims when doing future exploration
 
-Next, we recommend you check out [the Phase 1 Project Templates and Examples repo](https://github.com/learn-co-curriculum/dsc-project-template) and use the MVP template for your project.
+## For Further Information
 
-Alternatively, you can fork [the Phase 1 Project Repository](https://github.com/learn-co-curriculum/dsc-phase-1-project), clone it locally, and work in the `student.ipynb` file. Make sure to also add and commit a PDF of your presentation to your repository with a file name of `presentation.pdf`.
+Please review the narrative of my analysis in my jupyter notebook or review my presentation
 
-## Project Submission and Review
+For any additional questions, please contact lauren.petrillo13@gmail.com
 
-Review the "Project Submission & Review" page in the "Milestones Instructions" topic to learn how to submit your project and how it will be reviewed. Your project must pass review for you to progress to the next Phase.
+### Repository Structure
 
-## Summary
+Here are the contents of my repository
 
-This project will give you a valuable opportunity to develop your data science skills using real-world data. The end-of-phase projects are a critical part of the program because they give you a chance to bring together all the skills you've learned, apply them to realistic projects for a business stakeholder, practice communication skills, and get feedback to help you improve. You've got this!
+├── README.md                       <- The top-level README for reviewers of this project.
+├── Movie Project - lauren.petrillo.ipynb             <- narrative documentation of analysis in jupyter notebook
+├── Module 1 – Movie Project Presentation.pdf                <- pdf version of project presentation
+└── Images
+    
+
+
+
+
