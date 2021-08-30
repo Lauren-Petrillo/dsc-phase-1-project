@@ -26,15 +26,19 @@ Here are the resources I used to perform my data analysis:
 ## Results
 
 ### Gross Visual 1
+<img src='images/avg_genre_rating.png'>
 
 ### Gross Visual 2
+<img src='images/studio_world_gross.png'>
 
 ### Gross Visual 3
+<img src='images/updated_top_directors.png'>
+
 
 ## Recommendations
 
-* Focus on genres such as Sci-Fi, Adventure, and Animation as they produce the most revenue
-* Focus on the top movie studios BV, WB, and Fox (Who is their target audience? Study behavior/trends of consumers in order to capture their data on television rights, videos-on-demand, and streaming services)
+* Make movies that are Sci-Fi, Adventure, or Animation as they are the top genres that produce the most revenue
+* Study the target audience for the top movie studios BV, WB, and Fox. By studying the behavior/trends of consumers, we can capture their data on television rights, videos-on-demand, and streaming services
 * Hire popular directors--it can lead to higher revenue for movies
 
 ## Next Steps
@@ -57,10 +61,13 @@ For any additional questions, please contact lauren.petrillo13@gmail.com
 
 Here are the contents of my repository
 
-├── README.md                       <- The top-level README for reviewers of this project.
-├── Movie Project - lauren.petrillo.ipynb             <- narrative documentation of analysis in jupyter notebook
-├── Module 1 – Movie Project Presentation.pdf                <- pdf version of project presentation
-└── Images
+README.md                                                <- The top-level README for reviewers of this project.
+
+Movie Project - lauren.petrillo.ipynb                    <- narrative documentation of analysis in jupyter notebook
+
+Module 1 – Movie Project Presentation.pdf                <- pdf version of project presentation
+
+Images
     
 
 
