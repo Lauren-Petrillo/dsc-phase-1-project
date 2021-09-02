@@ -28,12 +28,17 @@ Here are the resources I used to perform my data analysis:
 ### Gross Visual 1
 <img src='images/avg_genre_rating.png'>
 
+* As you can see from the above graph, Sci-Fi, Adventure, and Animation are the highest grossing genres
+
 ### Gross Visual 2
 <img src='images/studio_world_gross.png'>
+
+* As you can see from the above graph, BV, WB, and Fox are the highest grossing movie studios
 
 ### Gross Visual 3
 <img src='images/updated_top_directors.png'>
 
+* As you can see from the above graph, the top two highest grossing directors are Ridley Scott and Steven Spielberg
 
 ## Recommendations
 
