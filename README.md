@@ -62,19 +62,6 @@ Please review the narrative of my analysis in my jupyter notebook or review my p
 
 For any additional questions, please contact lauren.petrillo13@gmail.com
 
-### Repository Structure
-
-Here are the contents of my repository
-
-README.md                                                <- The top-level README for reviewers of this project.
-
-Movie Project - lauren.petrillo.ipynb                    <- narrative documentation of analysis in jupyter notebook
-
-Module 1 – Movie Project Presentation.pdf                <- pdf version of project presentation
-
-Images
-    
-
 
 
 
